@@ -5,7 +5,7 @@ The Six-Second Film Academy is a collaborative exercise on short-form storytelli
 While the format is different from a conventional motion picture, the process is similar. You should conceive, plan and execute just as if you were on the crew of a major motion picture. The obvious difference, you have a fraction of the time and… yeah, your film is a [Vine](http://vine.co).
 
 ###Your deliverables 
-At the end of an hour, you must upload your film to Vine and share the url at the bottom of this document.
+At the end of an hour, you must upload your film to Vine.
 
 ###Your subject matter
 You’ll receive a prompt like, “blah, blah, blah” or “blah, blah, blah”. Your interpretation is entirely up to you. However, your film should in some way relate to your prompt.
@@ -20,13 +20,16 @@ The cinematographer should have either an iPhone or Android phone and a Vine acc
 All film crews have roles. It’s up to you to decide who occupies these roles. One person may take on more than one role. Also, at any point, roles may switch. However, before beginning, you should decide as a team who will initially take on the following:
 
 * Scriptwriter/Storyboard editor
-Writes the story for the screen.
+
+    Writes the story for the screen.
 
 * Cinematographer
-Makes decisions on composition and framing of shots. Holds a Vine account.
+
+    Makes decisions on composition and framing of shots. Holds a Vine account.
 
 * Film editor
-Assembles various shots into a coherent film.
+
+    Assembles various shots into a coherent film.
 
 ###Tools
 Vine is incredibly easy to use. But you do not have to use the Vine app to shoot your film. There are a number of tools you can use to shoot, edit and add effects. 
@@ -41,17 +44,17 @@ Vine is incredibly easy to use. But you do not have to use the Vine app to shoot
 ###Examples
 Here’s some nicely produced Vine videos.
 
-Making a dinner playlist.
-[https://vine.co/v/iDqjXQuXqYg](https://vine.co/v/iDqjXQuXqYg)
+* Making a dinner playlist.
+    [https://vine.co/v/iDqjXQuXqYg](https://vine.co/v/iDqjXQuXqYg)
 
-In honor of Kristen Titus, executive director of Girls Who Code
-[https://vine.co/v/ipiWQFzreUq](https://vine.co/v/ipiWQFzreUq)
+*In honor of Kristen Titus, executive director of Girls Who Code
+    [https://vine.co/v/ipiWQFzreUq](https://vine.co/v/ipiWQFzreUq)
 
-How to make a monster bookmark.
-[https://vine.co/v/iDTKKwt57dJ](https://vine.co/v/iDTKKwt57dJ)
+*How to make a monster bookmark.
+    [https://vine.co/v/iDTKKwt57dJ](https://vine.co/v/iDTKKwt57dJ)
 
-Keep squirrels away from your vegetable garden
-[https://vine.co/v/iweK27KOtVM](https://vine.co/v/iweK27KOtVM)
+*Keep squirrels away from your vegetable garden
+    [https://vine.co/v/iweK27KOtVM](https://vine.co/v/iweK27KOtVM)
 
 
 Academy films
@@ -59,8 +62,8 @@ Here’s some work from members of the Six-Second Film Academy.
 
 31-03-2016
 
-Sean Kenny, Chris Doyle, Christine Yokoyama, Vince Allen - shot on Android Nexus 6P
-[https://vine.co/v/ijKjAa6hWvz](https://vine.co/v/ijKjAa6hWvz)
+* Sean Kenny, Chris Doyle, Christine Yokoyama, Vince Allen - shot on Android Nexus 6P
+    [https://vine.co/v/ijKjAa6hWvz](https://vine.co/v/ijKjAa6hWvz)
 
-Will Sackfield, Tahir Hemphill, Drew Petersen, Ardit Bajraktari - shot on iPhone 6
-[https://vine.co/v/ijKtVJbIgtn](https://vine.co/v/ijKtVJbIgtn)
+* Will Sackfield, Tahir Hemphill, Drew Petersen, Ardit Bajraktari - shot on iPhone 6
+    [https://vine.co/v/ijKtVJbIgtn](https://vine.co/v/ijKtVJbIgtn)
