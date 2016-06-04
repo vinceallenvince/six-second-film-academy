@@ -48,15 +48,15 @@ Here’s some nicely produced Vine videos.
 
     [https://vine.co/v/iDqjXQuXqYg](https://vine.co/v/iDqjXQuXqYg)
 
-*In honor of Kristen Titus, executive director of Girls Who Code
+* In honor of Kristen Titus, executive director of Girls Who Code
 
     [https://vine.co/v/ipiWQFzreUq](https://vine.co/v/ipiWQFzreUq)
 
-*How to make a monster bookmark.
+* How to make a monster bookmark.
 
     [https://vine.co/v/iDTKKwt57dJ](https://vine.co/v/iDTKKwt57dJ)
 
-*Keep squirrels away from your vegetable garden
+* Keep squirrels away from your vegetable garden
 
     [https://vine.co/v/iweK27KOtVM](https://vine.co/v/iweK27KOtVM)
 
