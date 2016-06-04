@@ -45,15 +45,19 @@ Vine is incredibly easy to use. But you do not have to use the Vine app to shoot
 Here’s some nicely produced Vine videos.
 
 * Making a dinner playlist.
+
     [https://vine.co/v/iDqjXQuXqYg](https://vine.co/v/iDqjXQuXqYg)
 
 *In honor of Kristen Titus, executive director of Girls Who Code
+
     [https://vine.co/v/ipiWQFzreUq](https://vine.co/v/ipiWQFzreUq)
 
 *How to make a monster bookmark.
+
     [https://vine.co/v/iDTKKwt57dJ](https://vine.co/v/iDTKKwt57dJ)
 
 *Keep squirrels away from your vegetable garden
+
     [https://vine.co/v/iweK27KOtVM](https://vine.co/v/iweK27KOtVM)
 
 
@@ -63,7 +67,9 @@ Here’s some work from members of the Six-Second Film Academy.
 31-03-2016
 
 * Sean Kenny, Chris Doyle, Christine Yokoyama, Vince Allen - shot on Android Nexus 6P
+
     [https://vine.co/v/ijKjAa6hWvz](https://vine.co/v/ijKjAa6hWvz)
 
 * Will Sackfield, Tahir Hemphill, Drew Petersen, Ardit Bajraktari - shot on iPhone 6
+
     [https://vine.co/v/ijKtVJbIgtn](https://vine.co/v/ijKtVJbIgtn)
