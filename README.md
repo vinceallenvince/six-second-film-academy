@@ -1,6 +1,6 @@
 #Six-Second Film Academy
 
-The Six-Second Film Academy is a collaborative exercise on short-form storytelling. You’ll work with a team for ~1 hour and create a six second film based on a prompt.
+The Six-Second Film Academy is a collaborative exercise on short-form storytelling. You’ll work with a team for ~1 hour and create a six-second film based on a prompt.
 
 While the format is different from a conventional motion picture, the process is similar. You should conceive, plan and execute just as if you were on the crew of a major motion picture. The obvious difference, you have a fraction of the time and… yeah, your film is a [Vine](http://vine.co).
 
